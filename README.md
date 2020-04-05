@@ -7,3 +7,6 @@
 *Vector* 2 strategija užtruko: po kurio laiko programos veikimo išmetė std::bad_alloc  
 
 Naudojant *Vector* mano programoje nesugalvojau kur naudingai pritaikyti nurodytus algoritmus  
+
+Kaip naudotis: Paleisti programą galima naudojantis ShellExecute API  
+
