@@ -5,4 +5,5 @@
 *Deque* 2 strategija užtruko: nuskaitymas - 76 s, rūšiavimas - 98.5 s  
 *List* 2 strategija užtruko:  
 *Vector* 2 strategija užtruko: po kurio laiko programos veikimo išmetė std::bad_alloc  
-*Vector* 2 strategija (naudojant std::remove algoritmą) užtruko:  
+
+Naudojant *Vector* mano programoje nesugalvojau kur naudingai pritaikyti nurodytus algoritmus  
