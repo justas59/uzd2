@@ -1,0 +1,11 @@
+makefile:
+all: test
+
+clean:
+	-rm v1.0 vector 1 strategija.o test.exe test
+
+test: v1.0 vector 1 strategija.o
+	g++ -g -o test v1.0 vector 1 strategija.o
+
+v1.0 vector 1 strategija.o: v1.0 vector 1 strategija.cpp
+	g++ -c -g v1.0 vector 1 strategija.cpp
